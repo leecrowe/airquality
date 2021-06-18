@@ -1,0 +1,14 @@
+[dev-packages]
+
+[packages]
+flask = "*"
+flask-sqlalchemy = "*"
+numpy = "*"
+python-decouple = "*"
+psycopg2 = "*"
+requests = "*"
+py-openaq = "*"
+python-dotenv = "*"
+
+[requires]
+python_version = "3.8"
